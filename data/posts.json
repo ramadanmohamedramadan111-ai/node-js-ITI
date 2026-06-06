@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Welcome to Node.js",
+    "body": "This is my first post about Node.js and Express framework.",
+    "userId": 1,
+    "createdAt": "2024-06-01T10:30:00.000Z"
+  },
+  {
+    "id": 2,
+    "title": "Learning Docker",
+    "body": "Docker is a great tool for containerizing applications.",
+    "userId": 2,
+    "createdAt": "2024-06-02T12:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "title": "REST API Best Practices",
+    "body": "Building RESTful APIs with proper HTTP methods and status codes.",
+    "userId": 1,
+    "createdAt": "2024-06-03T15:45:00.000Z"
+  }
+]
